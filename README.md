@@ -1,6 +1,6 @@
 # Yash Kewlani
 
-11th grade · NES International School, Thane · building things that matter
+11th grade · NES International School, Mumbai · building things that matter
 
 ---
 
