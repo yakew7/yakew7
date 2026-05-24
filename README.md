@@ -14,7 +14,7 @@ I learn by shipping. If something breaks, I want to know *why* it broke — not 
 
 **Fair Code** — An open-source research project exposing and fixing bias in real-world AI systems. Audits four deployed algorithms — criminal justice (COMPAS), hiring, lending, and healthcare — using real datasets. Every experiment follows the same pipeline: train a biased model, measure the fairness gap, strip protected attributes *and* proxy variables, retrain, measure again. Up to 97.3% bias reduction achieved. Includes six deep-dive explainers on proxy variables, sampling bias, SHAP values, equalized odds, disparate impact, and why fairness metrics conflict.  
 `Python` · `scikit-learn` · `pandas` · `SHAP` · `Fairlearn`  
-[↗ Live](https://fair-code-five.vercel.app) · [↗ GitHub](https://github.com/yakew7/Fair-Code) · ⭐ 15
+[↗ Live](https://fair-code-five.vercel.app) · [↗ GitHub](https://github.com/yakew7/Fair-Code) · ⭐ 16
 
 **CardioAI** — A cardiovascular risk predictor that turns clinical health parameters into an instant ML-based risk assessment. Users enter vitals like blood pressure, cholesterol, glucose, and BMI; the model outputs risk scores with an optional hypertension assessment module. Includes an AI assistant, interactive data visualisations, and a risk-reduction guide.  
 `Python` · `ML` · `React` · `Next.js`  
