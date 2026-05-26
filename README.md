@@ -14,7 +14,7 @@ I learn by shipping. If something breaks, I want to know *why* it broke — not 
 
 **Fair Code** — An open-source research project exposing and fixing bias in real-world AI systems. Audits four deployed algorithms — criminal justice (COMPAS), hiring, lending, and healthcare — using real datasets. Every experiment follows the same pipeline: train a biased model, measure the fairness gap, strip protected attributes *and* proxy variables, retrain, measure again. Up to 97.3% bias reduction achieved. Includes six deep-dive explainers on proxy variables, sampling bias, SHAP values, equalized odds, disparate impact, and why fairness metrics conflict.  
 `Python` · `scikit-learn` · `pandas` · `SHAP` · `Fairlearn`  
-[↗ Live](https://vercel.app) · [↗ GitHub](https://github.com) · ⭐ 18· 🍴 6
+[↗ Live](https://vercel.app) · [↗ GitHub](https://github.com) · ⭐ 19· 🍴 6
 
 
 
