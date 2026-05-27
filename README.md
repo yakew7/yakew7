@@ -43,6 +43,18 @@ Fair Code exists because I wanted to understand whether AI bias was actually fix
 
 ---
 
+## GitHub Stats
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yakew7&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=yakew7&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## Connect
 
 [![Email](https://img.shields.io/badge/yashkewlani2020%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashkewlani2020@gmail.com)
