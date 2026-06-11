@@ -23,6 +23,13 @@ I learn by shipping. If something breaks, I want to know *why* it broke — not 
 `Python` · `ML` · `React` · `Next.js`  
 [↗ Live](https://cardiovascular-disease-prediction-sandy.vercel.app) · [↗ GitHub](https://github.com/yakew7/Cardiovascular-disease-prediction) · ⭐ 4
 
+
+
+
+**CareCompanion** — A private health dashboard built for family caregivers. Manage medications, track vitals, log symptoms, prep for doctor visits, and chat with an AI that knows your patient's full history — all without a single byte of health data leaving your device. Tracks 31 lab readings across 8 groups, parses and auto-extracts data from medical PDFs, and includes an emergency info card accessible in one tap. Built for V1TROUS Hackathon 2026.  
+`TypeScript` · `Next.js 14` · `React` · `TailwindCSS` · `Groq AI`  
+[↗ Live](https://carecompanion.vercel.app) · [↗ GitHub](https://github.com/yakew7/CareCompanion) · ⭐ 3 · 🍴 1
+
 ---
 
 ## Technical Toolkit
