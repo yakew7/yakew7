@@ -4,9 +4,9 @@
 
 ---
 
-I'm a high school developer who builds AI-driven projects that solve real problems — not demos that gather dust. Right now I'm most interested in algorithmic fairness, ML systems, and building tools that make complex ideas legible to anyone.
+I'm a high school developer who builds AI-driven projects that solve real problems, not demos that gather dust. Right now I'm most interested in algorithmic fairness, ML systems, and building tools that make complex ideas legible to anyone.
 
-I learn by shipping. If something breaks, I want to know *why* it broke — not just how to patch it.
+I learn by shipping. If something breaks, I want to know *why* it broke, not just how to patch it.
 
 ---
 
