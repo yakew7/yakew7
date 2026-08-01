@@ -14,7 +14,7 @@ I learn by shipping. If something breaks, I want to know *why* it broke, not jus
 
 **Fair Code** — An open-source research project exposing and fixing bias in real-world AI systems. Audits four deployed algorithms — criminal justice (COMPAS), hiring, lending, and healthcare — using real datasets. Every experiment follows the same pipeline: train a biased model, measure the fairness gap, strip protected attributes *and* proxy variables, retrain, measure again. Up to 97.3% bias reduction achieved. Includes six deep-dive explainers on proxy variables, sampling bias, SHAP values, equalized odds, disparate impact, and why fairness metrics conflict.  
 `Python` · `scikit-learn` · `pandas` · `SHAP` · `Fairlearn`  
-[↗ Live](https://www.thefaircode.xyz) · [↗ GitHub](https://github.com/yakew7/Fair-Code) · ⭐ 40 · 🍴 16 · 👁️ 8
+[↗ Live](https://www.thefaircode.xyz) · [↗ GitHub](https://github.com/yakew7/Fair-Code) · <a href="https://github.com/yakew7/Fair-Code/stargazers"><img src="https://img.shields.io/github/stars/yakew7/Fair-Code?style=social" alt="Stars" height="28"></a> · <a href="https://github.com/yakew7/Fair-Code/forks"><img src="https://img.shields.io/github/forks/yakew7/Fair-Code?style=social" alt="Forks" height="28"></a> · <a href="https://github.com/yakew7/Fair-Code/contributors"><img src="https://img.shields.io/github/contributors/yakew7/Fair-Code?style=social" alt="Contributors" height="28"></a>
 
 
 
