@@ -56,10 +56,6 @@ Fair Code exists because I wanted to understand whether AI bias was actually fix
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yakew7&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=yakew7&theme=tokyo-night&hide_border=true"/>
-</p>
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yakew7&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=yakew7&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 ---
